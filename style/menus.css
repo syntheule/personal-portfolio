@@ -1,0 +1,16 @@
+.menus-container {
+    display: flex;
+    margin: 12px;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.menus-selection {
+    align-items: center;
+    text-decoration: none;
+    margin: 0px 15px;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    color: black;
+}
